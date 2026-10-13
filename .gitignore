@@ -1,0 +1,7 @@
+Browser/
+Downloads/
+Data/*
+!Data/README.txt
+browser-path.txt
+*.lnk
+*.partial
